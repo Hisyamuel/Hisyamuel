@@ -19,4 +19,4 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 ### Contact Me
 * [Linkedin](https://www.linkedin.com/in/nuramalihisyam/)
 * [Instagram](https://www.instagram.com/smhsymz/)
-* [Portfolio Web](https://nramlhsym.netlify.app/)
+* [Portfolio Web](https://nuramalihisyam.netlify.app/)
