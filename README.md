@@ -51,8 +51,8 @@ Perkenalkan nama saya **Nur Amali Hisyam**, seorang **Junior Front-End Developer
 
 ### 📊 Statistik Aktivitas GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hisyamuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hisyamuel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-hisyamuel.vercel.app/api?username=Hisyamuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-hisyamuel.vercel.app/api/top-langs/?username=Hisyamuel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 <br/>
